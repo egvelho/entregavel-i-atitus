@@ -10,9 +10,9 @@ A estrutura da sua página será a seguinte:
 
 <pre>
 body<br>
-  div<br>
-    img<br>
     div<br>
-      h2<br>
-      p<br>
+        img<br>
+        div<br>
+            h2<br>
+            p<br>
 </pre>
