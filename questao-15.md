@@ -7,9 +7,12 @@ Crie uma div com width de 256px, fundo branco, e margin e bordas arredondadas em
 Coloque margin-top de 8px no título e no parágrafo para criar as devidas distâncias. Não esqueça de zerar as margens desses elementos! Também remova as bordas da parte de cima da imagem com as propriedades `border-top-left-radius` e `border-top-right-radius`.
 
 A estrutura da sua página será a seguinte:
-body
-div
-img
-div
-h2
-p
+
+<pre>
+body<br>
+  div<br>
+    img<br>
+    div<br>
+      h2<br>
+      p<br>
+</pre>
