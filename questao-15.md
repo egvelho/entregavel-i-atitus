@@ -9,10 +9,10 @@ Coloque margin-top de 8px no título e no parágrafo para criar as devidas dist�
 A estrutura da sua página será a seguinte:
 
 <pre>
-body<br>
-    div<br>
-        img<br>
-        div<br>
-            h2<br>
-            p<br>
+body
+    div
+        img
+        div
+            h2
+            p
 </pre>
